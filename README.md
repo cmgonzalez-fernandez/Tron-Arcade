@@ -11,4 +11,4 @@ Stylized grid using double-width blocks for readability and retro neon vibes.
 
 ## Run
 ```bash
-python tron_stylized.py
+python tron.py

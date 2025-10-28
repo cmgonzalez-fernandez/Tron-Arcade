@@ -12,3 +12,7 @@ Stylized grid using double-width blocks for readability and retro neon vibes.
 ## Run
 ```bash
 python tron.py
+```
+---
+### 👤 Author
+ Carlos M. González-Fernández

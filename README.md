@@ -1,5 +1,5 @@
 # Tron-Arcade
-# Tron Lightcycles — Terminal (Stylized)
+## Lightcycles
 
 Terminal version of Tron Lightcycles with 1-player (vs AI) and 2-player modes.  
 Stylized grid using double-width blocks for readability and retro neon vibes.
